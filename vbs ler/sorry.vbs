@@ -1,0 +1,3 @@
+do
+msgbox "AAAAAAAAAAAAAAAAAAA"
+loop
